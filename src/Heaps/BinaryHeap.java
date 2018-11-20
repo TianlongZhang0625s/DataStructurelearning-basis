@@ -77,6 +77,8 @@ public class BinaryHeap<AnyType extends Comparable <? super AnyType>> {
             enlargeArray(array.length * 2 + 1);
 
         int hole = ++currentSize;
+
+        //perlocatUp to find the true position for the new inserted element
         for(array[0] = x; x.compareTo(array[hole / 2]) < 0; hole /= 2){
             array[hole] = array[hole / 2];
         }
@@ -188,7 +190,7 @@ public class BinaryHeap<AnyType extends Comparable <? super AnyType>> {
                 array[hole] = array[min];
                 array[min] = temp;
 
-                percolateDown(min);
+                percolateDown1(min);
             }
         }
 

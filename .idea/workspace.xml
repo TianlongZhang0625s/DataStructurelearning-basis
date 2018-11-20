@@ -24,13 +24,16 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DataStructurelearning-basis" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="SeparateChainHashingTable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hashing/SeparateChainHashingTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+            <state relative-caret-position="-160">
+              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,31 +44,58 @@
       <file leaf-file-name="BinaryHeap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Heaps/BinaryHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="151" column="17" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+            <state relative-caret-position="113">
+              <caret line="196" column="5" lean-forward="true" selection-start-line="153" selection-end-line="196" selection-end-column="5" />
               <folding>
                 <element signature="e#1146#1147#0" expanded="true" />
                 <element signature="e#1184#1185#0" expanded="true" />
-                <element signature="e#5065#5074#0" expanded="true" />
+                <element signature="e#5167#5176#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Heaps/HeapSort.java">
+      <file leaf-file-name="DHeap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Heaps/DHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="71" selection-start-line="71" selection-end-line="74" selection-end-column="9" />
+            <state relative-caret-position="313">
+              <caret line="116" column="1" lean-forward="true" selection-start-line="10" selection-end-line="116" selection-end-column="1" />
+              <folding>
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#1906#1907#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+                <element signature="e#3310#3319#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Heaps/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Heaps/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Heaps/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="720">
+              <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -108,9 +138,11 @@
         <option value="$PROJECT_DIR$/src/hashing/Solution.java" />
         <option value="$PROJECT_DIR$/src/Trees/RedBlackTree.java" />
         <option value="$PROJECT_DIR$/src/Heaps/BinaryHeaps.java" />
-        <option value="$PROJECT_DIR$/src/Heaps/BinaryHeap.java" />
-        <option value="$PROJECT_DIR$/src/Heaps/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/Heaps/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Heaps/BinaryHeap.java" />
+        <option value="$PROJECT_DIR$/src/Heaps/DHeap.java" />
+        <option value="$PROJECT_DIR$/src/Heaps/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Heaps/HeapSort.java" />
       </list>
     </option>
   </component>
@@ -129,7 +161,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -139,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +187,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
@@ -198,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BinaryHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Heaps.BinaryHeap" />
       <module name="DataStructurelearning-basis" />
@@ -210,8 +242,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BinaryHeaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Heaps.BinaryHeaps" />
+    <configuration name="DHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Heaps.DHeap" />
       <module name="DataStructurelearning-basis" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -243,13 +275,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RedBlackTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Trees.RedBlackTree" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Heaps.QuickSort" />
       <module name="DataStructurelearning-basis" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Trees.*" />
+          <option name="PATTERN" value="src.Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +328,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RedBlackTree" />
       <item itemvalue="Application.BinaryHeap" />
-      <item itemvalue="Application.BinaryHeaps" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.DHeap" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.DHeap" />
+        <item itemvalue="Application.BinaryHeap" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.BinaryHeap" />
-        <item itemvalue="Application.BinaryHeaps" />
-        <item itemvalue="Application.RedBlackTree" />
       </list>
     </recent_temporary>
   </component>
@@ -333,20 +365,20 @@
       <workItem from="1536021659737" duration="4844000" />
       <workItem from="1536666970666" duration="562000" />
       <workItem from="1540173564310" duration="12982000" />
-      <workItem from="1542600702980" duration="25218000" />
+      <workItem from="1542600702980" duration="27787000" />
+      <workItem from="1542695097264" duration="18494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101180000" />
+    <option name="totallyTimeSpent" value="122243000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="0" width="814" height="867" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3283582" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32692307" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -354,18 +386,18 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32891247" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49867374" visible="true" weight="0.32554945" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49867374" weight="0.3175034" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30636606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932158" visible="true" weight="0.15231362" />
       <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.15231362" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3934871" />
+      <window_info id="Favorites" order="5" sideWeight="0.5006784" side_tool="true" visible="true" weight="0.15231362" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39835164" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -407,25 +439,17 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Heaps/DHeap.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hashing/StringHashFamily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hashing/HashFamily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hashing/CockooHashTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3720">
@@ -735,21 +759,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Heaps/BinaryHeaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2360">
-          <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
-          <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heaps/BinaryHeaps.java" />
     <entry file="file://$PROJECT_DIR$/src/Trees/RedBlackTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -789,53 +799,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Heaps/BinaryHeaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="146" column="19" lean-forward="true" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JRE/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heaps/BinaryHeaps.java" />
     <entry file="file://$PROJECT_DIR$/src/hashing/SeparateChainHashingTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        <state relative-caret-position="-160">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/JRE/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1002" selection-start-line="1002" selection-end-line="1002" />
+          <folding>
+            <element signature="e#37269#37270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heaps/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heaps/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Heaps/BinaryHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="151" column="17" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+        <state relative-caret-position="113">
+          <caret line="196" column="5" lean-forward="true" selection-start-line="153" selection-end-line="196" selection-end-column="5" />
           <folding>
             <element signature="e#1146#1147#0" expanded="true" />
             <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#5065#5074#0" expanded="true" />
+            <element signature="e#5167#5176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heaps/DHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="116" column="1" lean-forward="true" selection-start-line="10" selection-end-line="116" selection-end-column="1" />
+          <folding>
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#1906#1907#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#3310#3319#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Heaps/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="71" selection-start-line="71" selection-end-line="74" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Heaps/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="227">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>

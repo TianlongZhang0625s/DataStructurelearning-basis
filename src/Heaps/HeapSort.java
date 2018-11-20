@@ -7,6 +7,14 @@ package src.Heaps;
  * @Version 1.0.0
  */
 public class HeapSort {
+
+    /**
+     * 调整，使得保持堆序性质
+     * @param array  堆序所存在的数组
+     * @param hole    根节点，即调整开始的为止，一般为下滤
+     * @param length  修改后堆序的长度，这里就是变化的部分，即n-1
+     *  当循环时，就相当于每次取出一个，对剩下的进行调整
+     */
     public static void HeapAdjust(int[] array,int hole, int length){
         int left = 2 * hole;
         int right = 2 * hole + 1;
@@ -33,6 +41,12 @@ public class HeapSort {
          }
     }
 
+    /**
+     * 仿照二叉堆中perlocateDown1改写的调整堆序的方法，功能相同
+     * @param array
+     * @param hole
+     * @param length
+     */
     public static void HeapAdjust2(int[] array,int hole, int length){
         int child;
         int temp = array[hole];
